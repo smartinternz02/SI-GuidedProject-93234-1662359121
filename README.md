@@ -8,6 +8,6 @@ Grocery Lister App aims to provide a comfortable experience while shopping daily
 
 # Project Report
 
-- [Report](https://github.com/smartinternz02/SI-GuidedProject-93234-1662359121/blob/main/Report/Project_Report_HarshGarg.pdf)
+- [Report](https://github.com/smartinternz02/SI-GuidedProject-93234-1662359121/blob/main/Report/Project_Report_HarshG.pdf)
 
 - ![screenshots](https://github.com/smartinternz02/SI-GuidedProject-93234-1662359121/blob/main/ScreenShots/ScreenSplash.png)
